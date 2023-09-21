@@ -1,4 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
+//use this command to prevent potential security risks such as buffer overflows or file-related issues
+// that could caused by using 'fopen' and 'fgets'
 #include <stdio.h>
 #include <stdlib.h>
 
